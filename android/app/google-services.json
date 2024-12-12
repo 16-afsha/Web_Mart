@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899491732218",
+    "project_id": "shopmart-ab253",
+    "storage_bucket": "shopmart-ab253.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899491732218:android:beae69a5ed588c64fac743",
+        "android_client_info": {
+          "package_name": "com.example.web_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfvcUf89vuI10yV1ZBd33JAZAXP7Dcao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
